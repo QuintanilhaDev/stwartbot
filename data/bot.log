@@ -1,0 +1,15 @@
+[2025-08-10 02:47:35] [INFO    ] root: ▶️ Iniciando o bot e carregando módulos...
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.music' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.moderation' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.anti_spam' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.anti_raid' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.god_eye' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.logs_system' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.info' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.engagement' carregado.
+[2025-08-10 02:47:35] [INFO    ] root:   -> ✅ Módulo 'modules.help' carregado.
+[2025-08-10 02:47:35] [INFO    ] discord.client: logging in using static token
+[2025-08-10 02:47:36] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 42eb9d5ef36c2a41e3e8adfe291a97fe).
+[2025-08-10 02:47:38] [INFO    ] root: ✅ Bot conectado como Stwart#2300
+[2025-08-10 02:47:38] [INFO    ] root: ✅ Sincronizando comandos com a API do Discord...
+[2025-08-10 02:47:39] [INFO    ] root: ✅ Sincronizados 16 comandos.
